@@ -24,7 +24,7 @@ He integrado los resultados en un **Dashboard interactivo** que incluye:
 
 ## 📊 Visualización del Proyecto
 
-![Dashboard Preview](dashboard/tu_captura_del_dashboard.png)
+![Dashboard Preview](HojaEmisionesCO2.png)
 *(Sustituye esta imagen con una captura real de tu trabajo)*
 
 ## 🛠️ Herramientas Utilizadas
